@@ -1,3 +1,3 @@
 # login-corporative
 
-https://frank-hz.github.io/login-corporative/
+https://frank-hz.github.io/login-prototipe/
